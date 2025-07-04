@@ -71,7 +71,7 @@
 ## 📫 Let's Connect
 
 - 📧 guruprashanthmedasani@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/guruprashanth/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/guruprashanthmedasani/)  
 - 🌐 Portfolio (coming soon)
 
 ---
