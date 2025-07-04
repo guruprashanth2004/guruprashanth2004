@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 AI/ML Developer | 📊 Data Analyst | 👁️‍🗨️ Computer Vision & NLP Explorer <br>
-📍 Bengaluru | 🎓 CSE Pre-final Year @ GITAM University
+📍 Bengaluru | 🎓 CSE final Year @ GITAM University
 </p>
 
 ---
