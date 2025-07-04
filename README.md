@@ -46,16 +46,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guruprashanth2004&theme=darkhub&row=2&column=4" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guruprashanth2004&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruprashanth2004&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=guruprashanth2004&theme=flat&row=2&column=4" />
 </p>
 
 ---
