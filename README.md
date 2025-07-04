@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaboomcosmos&theme=radical&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guruprashanth2004&theme=radical&row=2&column=4" />
 </p>
 
 ---
