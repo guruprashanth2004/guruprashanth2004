@@ -63,7 +63,7 @@
 
 - 📧 guruprashanthmedasani@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/guruprashanthmedasani/)  
-- 🌐 Portfolio (coming soon)
+- 🌐 [Portfolio](https://guruprashanth.lovable.app/)
 
 ---
 
